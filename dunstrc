@@ -69,8 +69,8 @@
     icon_path = /usr/share/icons/Qogir/16/status:/usr/share/icons/Qogir/16/devices/:/usr/share/icons/Qogir/24/panel/:/usr/share/icons/Qogir/16/apps/:/usr/share/pixmaps/:/usr/share/icons/Qogir/scalable/apps/
     
     ### History ###
-    sticky_history = true
-    history_length = 20
+    sticky_history = false
+    history_length = 0
 
     ### Misc/Advanced ###
     dmenu = /usr/bin/dmenu -p dunst:
